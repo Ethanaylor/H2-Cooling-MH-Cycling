@@ -70,4 +70,4 @@ For questions, collaboration, or access to full datasets, feel free to reach out
 
 ## 📜 License
 
-
+MIT License – open for academic and non-commercial use.
